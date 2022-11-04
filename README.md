@@ -17,4 +17,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 [MIT](mit.com)
 
+---
 ![](https://media.giphy.com/media/2EmnXPeFXDRhJr9NpY/giphy.gif)
