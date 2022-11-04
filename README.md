@@ -17,4 +17,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 [MIT](mit.com)
 
-![montaigne den denemeler](https://tenor.com/view/gif-27039486)
+![](https://media.giphy.com/media/2EmnXPeFXDRhJr9NpY/giphy.gif)
